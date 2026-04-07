@@ -1,0 +1,32 @@
+<Solution>
+  <Folder Name="/Atividade01/">
+    <Project Path="Atividade01/Atividade01.ConsoleApp/Atividade01.ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/Atividade02/">
+    <Project Path="Atividade02/Atividade02.ConsoleApp/Atividade02.ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/Atividade03/">
+    <Project Path="Atividade03/Atividade03.ConsoleApp/Atividade03.ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/Atividade04/">
+    <Project Path="Atividade04/Atividade04.ConsoleApp/Atividade04.ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/Atividade05/">
+    <Project Path="Atividade05/Atividade05.ConsoleApp/Atividade05.ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/Atividade06/">
+    <Project Path="Atividade06/Atividade06.ConsoleApp/Atividade06.ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/Atividade07/">
+    <Project Path="Atividade07/Atividade07.ConsoleApp/Atividade07.ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/Atividade08/">
+    <Project Path="Atividade08/Atividade08.ConsoleApp/Atividade08.ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/Atividade09/">
+    <Project Path="Atividade09/Atividade09.ConsoleApp/Atividade09.ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/Atividade10/">
+    <Project Path="Atividade10/Atividade10.ConsoleApp/Atividade10.ConsoleApp.csproj" />
+  </Folder>
+</Solution>
